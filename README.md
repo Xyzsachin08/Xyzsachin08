@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sachin, IT Engineering student <br>with good knowledge of C, C++, Java, Python, SQL, HTML, and CSS. <br>Currently, I am learning AI/ML and enjoy building projects.
+I'm Sachin, IT Engineering student <br>with good knowledge of  Java, Python, SQL, HTML, CSS and Java Script Django. <br>Currently, I am learning AI/ML and enjoy building projects.
 
 
 ## 🌐 Socials:
