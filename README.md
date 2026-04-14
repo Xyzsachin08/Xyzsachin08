@@ -23,3 +23,6 @@ I'm Sachin, IT Engineering student <br>with good knowledge of  Java, Python, SQL
 [![](https://visitcount.itsvg.in/api?id=Xyzsachin08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Xyzsachin08&label=Visitors&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Xyzsachin08?label=Followers)
+![Stars](https://img.shields.io/github/stars/Xyzsachin08?label=Stars)
